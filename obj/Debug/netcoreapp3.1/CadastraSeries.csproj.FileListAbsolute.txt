@@ -1,0 +1,13 @@
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.exe
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.deps.json
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.runtimeconfig.json
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.runtimeconfig.dev.json
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.dll
+C:\Estudos-C#\ProjetoCadastroSerie\bin\Debug\netcoreapp3.1\CadastraSeries.pdb
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.csprojAssemblyReference.cache
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.AssemblyInfoInputs.cache
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.AssemblyInfo.cs
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.csproj.CoreCompileInputs.cache
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.dll
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.pdb
+C:\Estudos-C#\ProjetoCadastroSerie\obj\Debug\netcoreapp3.1\CadastraSeries.genruntimeconfig.cache
